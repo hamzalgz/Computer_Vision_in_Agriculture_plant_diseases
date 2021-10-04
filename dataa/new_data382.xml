@@ -1,0 +1,50 @@
+<annotation>
+	<folder>path</folder>
+	<filename>new_data382.jpeg</filename>
+	<path>D:\path\new_data382.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faux tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>677</ymin>
+			<xmax>551</xmax>
+			<ymax>849</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>faux tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>608</ymin>
+			<xmax>322</xmax>
+			<ymax>773</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>faux tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>722</ymin>
+			<xmax>383</xmax>
+			<ymax>990</ymax>
+		</bndbox>
+	</object>
+</annotation>

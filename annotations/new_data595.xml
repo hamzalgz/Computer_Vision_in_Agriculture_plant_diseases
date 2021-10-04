@@ -1,0 +1,26 @@
+<annotation>
+	<folder>path</folder>
+	<filename>new_data595.jpeg</filename>
+	<path>D:\path\new_data595.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>othyorinques</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>275</ymin>
+			<xmax>451</xmax>
+			<ymax>703</ymax>
+		</bndbox>
+	</object>
+</annotation>

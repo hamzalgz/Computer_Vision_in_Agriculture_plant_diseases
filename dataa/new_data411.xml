@@ -1,0 +1,38 @@
+<annotation>
+	<folder>path</folder>
+	<filename>new_data411.jpeg</filename>
+	<path>D:\path\new_data411.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faux tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>494</ymin>
+			<xmax>463</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>faux tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>333</ymin>
+			<xmax>614</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

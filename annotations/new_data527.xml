@@ -1,0 +1,26 @@
+<annotation>
+	<folder>path</folder>
+	<filename>new_data527.jpeg</filename>
+	<path>D:\path\new_data527.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scolytes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>223</ymin>
+			<xmax>844</xmax>
+			<ymax>1030</ymax>
+		</bndbox>
+	</object>
+</annotation>

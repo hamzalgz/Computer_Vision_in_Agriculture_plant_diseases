@@ -1,0 +1,38 @@
+<annotation>
+	<folder>path</folder>
+	<filename>new_data363.jpeg</filename>
+	<path>D:\path\new_data363.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faux tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>217</ymin>
+			<xmax>526</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>faux tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>672</ymin>
+			<xmax>484</xmax>
+			<ymax>980</ymax>
+		</bndbox>
+	</object>
+</annotation>

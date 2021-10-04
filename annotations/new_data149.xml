@@ -1,0 +1,26 @@
+<annotation>
+	<folder>path</folder>
+	<filename>new_data149.jpeg</filename>
+	<path>D:\path\new_data149.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>polystigma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>556</ymin>
+			<xmax>740</xmax>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+</annotation>

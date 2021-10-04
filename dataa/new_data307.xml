@@ -1,0 +1,38 @@
+<annotation>
+	<folder>path</folder>
+	<filename>new_data307.jpeg</filename>
+	<path>D:\path\new_data307.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chancre fusicocum</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>414</ymin>
+			<xmax>663</xmax>
+			<ymax>672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chancre fusicocum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>591</ymin>
+			<xmax>645</xmax>
+			<ymax>1030</ymax>
+		</bndbox>
+	</object>
+</annotation>

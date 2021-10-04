@@ -1,0 +1,26 @@
+<annotation>
+	<folder>path</folder>
+	<filename>new_data38.jpeg</filename>
+	<path>D:\path\new_data38.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rouille</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>634</ymin>
+			<xmax>952</xmax>
+			<ymax>948</ymax>
+		</bndbox>
+	</object>
+</annotation>

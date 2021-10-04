@@ -1,0 +1,26 @@
+<annotation>
+	<folder>path</folder>
+	<filename>new_data473.jpeg</filename>
+	<path>D:\path\new_data473.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acariens</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>271</ymin>
+			<xmax>510</xmax>
+			<ymax>1098</ymax>
+		</bndbox>
+	</object>
+</annotation>
