@@ -33,7 +33,9 @@ conda install -c anaconda lxml
 pyrcc5 -o libs/resources.py resources.qrc
 python labelImg.py
 python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
-#####Use Docker
+
+##### Use Docker
+
 docker run -it \
 --user $(id -u) \
 -e DISPLAY=unix$DISPLAY \
@@ -47,3 +49,7 @@ docker run -it \
 tzutalin/py2qt4
 
 make qt4py2;./labelImg.py
+
+
+
+
